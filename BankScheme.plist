@@ -216,7 +216,7 @@
 		<key>appId</key>
 		<string>id1436283663</string>
 		<key>canFill</key>
-		<true/>
+		<false/>
 		<key>appName</key>
 		<string>Sacombank Pay</string>
 	</dict>
